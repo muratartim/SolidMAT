@@ -1,0 +1,17 @@
+/analysis/
+/boundary/
+/data/
+/dialogs/
+/element/
+/main/
+/material/
+/math/
+/matrix/
+/node/
+/oneDim/
+/section/
+/solver/
+/threeDim/
+/twoDim/
+/visualize/
+/write/

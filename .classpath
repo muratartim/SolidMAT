@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src-gui"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/aurora/Documents/Developer/Libraries/JLAPACK/blas.jar"/>
+	<classpathentry kind="lib" path="/Users/aurora/Documents/Developer/Libraries/JLAPACK/blas_simple.jar"/>
+	<classpathentry kind="lib" path="/Users/aurora/Documents/Developer/Libraries/JLAPACK/f2jutil.jar"/>
+	<classpathentry kind="lib" path="/Users/aurora/Documents/Developer/Libraries/JLAPACK/lapack.jar"/>
+	<classpathentry kind="lib" path="/Users/aurora/Documents/Developer/Libraries/JLAPACK/lapack_simple.jar"/>
+	<classpathentry kind="lib" path="/Users/aurora/Documents/Developer/Libraries/JLAPACK/xerbla.jar"/>
+	<classpathentry kind="lib" path="/Users/aurora/Documents/Developer/Libraries/JAMA/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/aurora/Documents/Developer/Libraries/INF/oofem/inf-oofem-all.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Murat/Documents/Java%20Libraries/INF/oofem/docs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/aurora/Documents/Developer/Libraries/MTJ/mtj.jar"/>
+	<classpathentry kind="src" path="src-fea"/>
+	<classpathentry kind="src" path="src-mesh"/>
+	<classpathentry kind="src" path="src-output"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
