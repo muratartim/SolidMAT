@@ -1,5 +1,5 @@
 # SolidMAT
-Finite element & fatigue analysis software.
+Finite element analysis software. SolidMAT is standalone desktop application for structural finite element analysis. The software is implemented in Java.
 
 ## Screenshots
 Following screenshots demonstrate some of the 3D modeling, data visualisation and analysis capabilities of SolidMAT.
