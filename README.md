@@ -1,10 +1,5 @@
 # SolidMAT
-SolidMAT is an object-oriented software system which has been designed and developed for finite element and lifetime analysis of small-to-medium scaled structural applications. The software system enables the user to perform different linear analyses of the following types:
-- Linear static (displacement & stress),
-- Modal (free vibration),
-- Linear transient (time history),
-- Linear buckling (stability),
-- Fatigue (lifetime).
+SolidMAT is an object-oriented software system which has been designed and developed for finite element and lifetime analysis of small-to-medium scaled structural applications.
 
 The user can configure, start and monitor the different successive steps involved in these analysis procedures. The major features of the software package can be highlighted as follows,
 - Preprocessing (discretization and mesh generation, material information, boundary conditions and etc.),
@@ -36,11 +31,19 @@ The overall UML diagram for the <b>fea</b> package is shown in the following fig
 
 Overall UML diagram for the <b>output</b> package is shown in the figure below. The <b>visualize</b> package contains two fundamental classes called <b>PreVisualizer</b> and <b>PostVisualizer</b> which serve as connection hubs to more specific visualizer classes depending on the object type to be visualized.
 
-
+![uml_visualize](https://user-images.githubusercontent.com/13915745/41027475-6fc14d52-6977-11e8-9868-38efb37b5d16.JPG)
 
 ### Java native interfaces (JNI)
 
 ## Software usage
+
+### Analysis types
+The software system enables the user to perform different linear analyses of the following types:
+- Linear static (displacement & stress),
+- Modal (free vibration),
+- Linear transient (time history),
+- Linear buckling (stability),
+- Fatigue (lifetime).
 
 ### Element types
 
