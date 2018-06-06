@@ -25,7 +25,10 @@ Some C++ libraries are included into the developed software package in order to 
 Following sub-sections detail the overall software architecture employed before and during the development process.
 
 ### Package structure
-Project has been partitioned into four major packages for simultaneous development. The <b>fea</b> section contains packages necessary for the Finite Element Analysis (FEA)
+Project has been partitioned into four major packages for simultaneous development. The <b>fea</b> package contains packages necessary for the Finite Element Analysis, the <b>mesh</b> package contains automatic mesh generation classes, the <b>output</b> package includes classes for visualizer and table output writer classes, respectively. The <b>gui</b> package contains all the user interface classes.
+
+
+
 ### UML class diagrams
 
 ### Java native interfaces (JNI)
