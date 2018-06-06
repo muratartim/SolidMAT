@@ -51,5 +51,8 @@ An element navigator dialog has been implemented for selecting and creating the 
 ![elnav](https://user-images.githubusercontent.com/13915745/41027929-90452840-6978-11e8-9ba2-56c3172c768c.jpg)
 
 ### Linear equation solvers
+A variety of equation solvers have been implemented and included from linear algebra packages (such as MTJ - Matrix Toolkits for Java and JLAPACK – Linear Algebra Package for Java) to the software package in order to provide efficient solutions for different kinds of problems to be analyzed. These solvers are collected under two major types as linear equation solvers and generalized eigenvalue solvers, respectively.
+
+
 
 ### Mesh generators
