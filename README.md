@@ -34,6 +34,8 @@ The overall UML diagram for the <b>fea</b> package is shown in the following fig
 
 ![uml_fea](https://user-images.githubusercontent.com/13915745/41027166-a27ac2ba-6976-11e8-8947-216fad56834d.JPG)
 
+Overall UML diagram for the <b>output</b> package is shown in the figure below. The <b>visualize</b> package contains two fundamental classes called <b>PreVisualizer</b> and <b>PostVisualizer</b> which serve as connection hubs to more specific visualizer classes depending on the object type to be visualized.
+
 
 
 ### Java native interfaces (JNI)
