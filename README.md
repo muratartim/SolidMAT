@@ -32,6 +32,7 @@ Overall UML diagram for the <b>output</b> package is shown in the figure below. 
 ![uml_visualize](https://user-images.githubusercontent.com/13915745/41027475-6fc14d52-6977-11e8-9868-38efb37b5d16.JPG)
 
 ## Software usage
+Following sub-sections detail some of the important feautures of the software.
 
 ### Analysis types
 The software system enables the user to perform different linear analyses of the following types:
@@ -40,6 +41,10 @@ The software system enables the user to perform different linear analyses of the
 - Linear transient (time history),
 - Linear buckling (stability),
 - Fatigue (lifetime).
+
+Analysis type to be performed can be selected via the following dialog through user interface.
+
+
 
 ### Element types
 Software package contains an extensive element library. All element types are given with different classifications in the following table.
