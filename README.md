@@ -31,8 +31,6 @@ Overall UML diagram for the <b>output</b> package is shown in the figure below. 
 
 ![uml_visualize](https://user-images.githubusercontent.com/13915745/41027475-6fc14d52-6977-11e8-9868-38efb37b5d16.JPG)
 
-### Java native interfaces (JNI)
-
 ## Software usage
 
 ### Analysis types
@@ -44,6 +42,9 @@ The software system enables the user to perform different linear analyses of the
 - Fatigue (lifetime).
 
 ### Element types
+Software package contains an extensive element library. All element types are given with different classifications in the following table.
+
+
 
 ### Linear equation solvers
 
