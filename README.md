@@ -62,5 +62,4 @@ Depending on the analysis type, user can select a suitable solver through the so
 ### Mesh generators
 Mesh generators available in the software package are composed of element sub dividers for elements having line, quadrilateral, triangular and hexahedral geometries. Figure below shows a dialog to mesh solids and some examples of meshed areas and solids.
 
-
-
+![mesh](https://user-images.githubusercontent.com/13915745/41028522-eb4db080-6979-11e8-912c-38aac66d89bc.jpg)
