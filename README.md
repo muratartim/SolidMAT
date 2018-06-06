@@ -44,7 +44,9 @@ The software system enables the user to perform different linear analyses of the
 ### Element types
 Software package contains an extensive element library. All element types are given with different classifications in the following table.
 
+![eltypes](https://user-images.githubusercontent.com/13915745/41027758-3555a568-6978-11e8-98aa-8be03fda7f01.jpg)
 
+An element navigator dialog has been implemented for selecting and creating the demanded element types (see figure below). This dialog enables the user to easily navigate through elements by properties such as mechanics, geometry and interpolation degree.
 
 ### Linear equation solvers
 
