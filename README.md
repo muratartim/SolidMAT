@@ -30,7 +30,11 @@ Project has been partitioned into four major packages for simultaneous developme
 ![package](https://user-images.githubusercontent.com/13915745/41026852-dfe34f7e-6975-11e8-8a26-34979304a14a.jpg)
 
 ### UML class diagrams
-The overall UML diagram for the <b>fea</b> package is shown in the following figure. The analysis package in the fea section contains the Structure class which represents the overall model to be analyzed. Being at the top level of the class hierarchy, Structure class is responsible for the collection and management of nodes and elements together with the enumeration of structural degrees of freedom (dofs), and provides some general structural information such as, total mass, volume and weight, and available dofs of the model. Handling of nodes and elements are realized by methods performing setting, getting, addition, insertion and removal operations. Structure also contains information about previously performed analyses.
+The overall UML diagram for the <b>fea</b> package is shown in the following figure.
+
+![uml_fea](https://user-images.githubusercontent.com/13915745/41027166-a27ac2ba-6976-11e8-8947-216fad56834d.JPG)
+
+
 
 ### Java native interfaces (JNI)
 
