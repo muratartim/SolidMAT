@@ -44,7 +44,7 @@ The software system enables the user to perform different linear analyses of the
 
 Analysis type to be performed can be selected via the following dialog through user interface.
 
-
+![screen shot 2018-06-06 at 11 17 19](https://user-images.githubusercontent.com/13915745/41029325-b0ebbf7a-697b-11e8-9447-c12c57132190.png)
 
 ### Element types
 Software package contains an extensive element library. All element types are given with different classifications in the following table.
