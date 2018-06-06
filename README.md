@@ -48,6 +48,8 @@ Software package contains an extensive element library. All element types are gi
 
 An element navigator dialog has been implemented for selecting and creating the demanded element types (see figure below). This dialog enables the user to easily navigate through elements by properties such as mechanics, geometry and interpolation degree.
 
+![elnav](https://user-images.githubusercontent.com/13915745/41027929-90452840-6978-11e8-9ba2-56c3172c768c.jpg)
+
 ### Linear equation solvers
 
 ### Mesh generators
