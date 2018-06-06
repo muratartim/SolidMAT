@@ -5,7 +5,8 @@ SolidMAT is an object-oriented software system which has been designed and devel
 - Linear transient (time history),
 - Linear buckling (stability),
 - Fatigue (lifetime).
-The major features of the software package can be highlighted as follows,
+
+The user can configure, start and monitor the different successive steps involved in these analysis procedures. The major features of the software package can be highlighted as follows,
 - Preprocessing (discretization and mesh generation, material information, boundary conditions and etc.),
 - Processing (starting and monitoring the demanded analysis type),
 - Postprocessing (displaying the resulting values in various formats such as tables, 2D and 3D plots and etc.).
