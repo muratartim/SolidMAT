@@ -27,7 +27,7 @@ Following sub-sections detail the overall software architecture employed for the
 ### Package structure
 Project has been partitioned into four major packages for simultaneous development. The <b>fea</b> package contains packages necessary for the Finite Element Analysis, the <b>mesh</b> package contains automatic mesh generation classes, the <b>output</b> package includes classes for visualizer and table output writer classes, respectively. The <b>gui</b> package contains all the user interface classes.
 
-
+![package](https://user-images.githubusercontent.com/13915745/41026852-dfe34f7e-6975-11e8-8a26-34979304a14a.jpg)
 
 ### UML class diagrams
 
