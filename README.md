@@ -57,6 +57,10 @@ A variety of equation solvers have been implemented and included from linear alg
 
 Depending on the analysis type, user can select a suitable solver through the solver library dialog shown in the following figure.
 
-
+![solvernav](https://user-images.githubusercontent.com/13915745/41028348-7d859a9a-6979-11e8-8ba0-28dcc0f5ede6.jpg)
 
 ### Mesh generators
+Mesh generators available in the software package are composed of element sub dividers for elements having line, quadrilateral, triangular and hexahedral geometries. Figure below shows a dialog to mesh solids and some examples of meshed areas and solids.
+
+
+
