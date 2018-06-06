@@ -22,9 +22,10 @@ The software is mainly written in Java (90%), including user interfaces, analysi
 Some C++ libraries are included into the developed software package in order to be used in fatigue analysis. Because whole software package has been developed in Java programming language, native interfaces needed to be implemented to establish connection between the package and the libraries. This has been realized by the use of Java Native Interface (JNI).
 
 ## Software architecture
+Following sub-sections detail the overall software architecture employed before and during the development process.
 
 ### Package structure
-
+Project has been partitioned into four major packages for simultaneous development. The `fea´ section contains packages necessary for the Finite Element Analysis (FEA)
 ### UML class diagrams
 
 ### Java native interfaces (JNI)
