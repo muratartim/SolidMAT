@@ -4,6 +4,9 @@ SolidMAT is an object-oriented software system which has been designed and devel
 - Processing (starting and monitoring the demanded analysis type),
 - Postprocessing (displaying the resulting values in various formats such as tables, 2D and 3D plots and etc.).
 
+## Showcases
+The slides below showcase some of the real-life benchmark problems analyzed using SolidMAT.
+
 ![solidmat_demo](https://user-images.githubusercontent.com/13915745/41032662-5efa0010-6984-11e8-8db4-c20e8c48f7bd.gif)
 
 ## Screenshots
