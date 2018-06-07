@@ -1,5 +1,5 @@
 # SolidMAT
-SolidMAT is an object-oriented software system which has been designed and developed for finite element and lifetime analysis of small-to-medium scaled structural applications. The user can configure, start and monitor the different successive steps involved in analysis procedures. The major features of the software package can be highlighted as follows,
+SolidMAT is an object-oriented software system which has been designed & developed for finite element and lifetime analysis of small-to-medium scaled structural applications. The user can configure, start and monitor the different successive steps involved in analysis procedures. The major features of the software package can be highlighted as follows,
 - Preprocessing (discretization and mesh generation, material information, boundary conditions and etc.),
 - Processing (starting and monitoring the demanded analysis type),
 - Postprocessing (displaying the resulting values in various formats such as tables, 2D and 3D plots and etc.).
