@@ -9,9 +9,7 @@ The slides below showcase some of the real-life benchmark problems analyzed usin
 
 ![solidmat_demo](https://user-images.githubusercontent.com/13915745/41032662-5efa0010-6984-11e8-8db4-c20e8c48f7bd.gif)
 
-## Screenshots
-Following screenshots demonstrate some of the 3D modeling, data visualisation and analysis capabilities of SolidMAT.
-
+## Screenshot
 ![sc3](https://user-images.githubusercontent.com/13915745/40977697-f7a41cf0-68d1-11e8-8f38-0fa9070e04fc.jpg)
 
 ## Development languages
