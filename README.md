@@ -1,5 +1,6 @@
 # SolidMAT
 [![Apache License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![HitCount](http://hits.dwyl.io/muratartim/SolidMAT.svg)](http://hits.dwyl.io/muratartim/SolidMAT)
 
 SolidMAT is an object-oriented software system which has been designed & developed for finite element and lifetime analysis of small-to-medium scaled structural applications. The user can configure, start and monitor the different successive steps involved in analysis procedures. The major features of the software package can be highlighted as follows,
 - Preprocessing (discretization and mesh generation, material information, boundary conditions and etc.),
